@@ -1,4 +1,3 @@
 fastbook
 voila
-fastai==1.0.61
-ipywidgets==7.5.1
+ipywidgets
