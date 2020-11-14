@@ -1,1 +1,1 @@
-Bear classifier model created using Jupyter Notebooks and FastAI library
+Animal classifier model created using Jupyter Notebooks and FastAI library
